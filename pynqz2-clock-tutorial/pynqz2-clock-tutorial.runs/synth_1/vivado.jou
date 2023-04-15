@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Apr 15 15:31:31 2023
+# Process ID: 3084
+# Current directory: C:/Users/user 1/Desktop/vivado_projects/pynqz2-clock-tutorial/pynqz2-clock-tutorial.runs/synth_1
+# Command line: vivado.exe -log MainDesign_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MainDesign_wrapper.tcl
+# Log file: C:/Users/user 1/Desktop/vivado_projects/pynqz2-clock-tutorial/pynqz2-clock-tutorial.runs/synth_1/MainDesign_wrapper.vds
+# Journal file: C:/Users/user 1/Desktop/vivado_projects/pynqz2-clock-tutorial/pynqz2-clock-tutorial.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source MainDesign_wrapper.tcl -notrace

@@ -1,0 +1,26 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"-655,-118",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port LD0 -pg 1 -lvl 2 -x 270 -y -20 -defaultsOSRD
+preplace port LD1 -pg 1 -lvl 2 -x 270 -y 80 -defaultsOSRD
+preplace port LD2 -pg 1 -lvl 2 -x 270 -y 180 -defaultsOSRD
+preplace port LD3 -pg 1 -lvl 2 -x 270 -y 280 -defaultsOSRD
+preplace port CLK_IN -pg 1 -lvl 0 -x -330 -y -20 -defaultsOSRD
+preplace inst ClockDivider_0 -pg 1 -lvl 1 -x 130 -y -20 -defaultsOSRD
+preplace inst ClockDivider_1 -pg 1 -lvl 1 -x 130 -y 80 -defaultsOSRD
+preplace inst ClockDivider_2 -pg 1 -lvl 1 -x 130 -y 180 -defaultsOSRD
+preplace inst ClockDivider_3 -pg 1 -lvl 1 -x 130 -y 280 -defaultsOSRD
+preplace netloc ClockDivider_0_CLK_OUT 1 1 1 N -20
+preplace netloc ClockDivider_1_CLK_OUT 1 1 1 N 80
+preplace netloc ClockDivider_2_CLK_OUT 1 1 1 N 180
+preplace netloc ClockDivider_3_CLK_OUT 1 1 1 N 280
+preplace netloc CLK_IN_1 1 0 1 -310 -20n
+levelinfo -pg 1 -330 130 270
+pagesize -pg 1 -db -bbox -sgen -430 -80 350 440
+"
+}
+
